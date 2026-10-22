@@ -11,9 +11,6 @@ An intelligent surveillance system that transforms traditional CCTV footage into
 
 ## Tech Stack
 Python, PyTorch, YOLOv5, MongoDB, PyQt5
-
-## Team Members
-Arhum Butt, Khizar Hayat Khan, Muneeb Goraya, Ahsan Taqweem
+ 
 
 Developed for Smart City and Cyber Security applications.
-Hof University Application - Masters in Operational Excellence
